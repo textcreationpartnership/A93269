@@ -1,0 +1,337 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true Christians path way to heaven Wherein is shewed, the great afflictions which God imposeth upon His children in this life, and the assurance of their delivery out of the same. Being very profitable and comfortable for all those who are in any crosses or afflictions. Thereunto is added a prayer for morning and evening, and graces before and after meat. Dedicated to all those that desire to arrive at Mount Sion, the harbour of peace and joy. By William Simons.</title>
+            <author>Simons, William, fl. 1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93269</idno>
+            <idno type="STC">Wing S3805B</idno>
+            <idno type="STC">ESTC R231571</idno>
+            <idno type="EEBO-CITATION">99896841</idno>
+            <idno type="PROQUEST">99896841</idno>
+            <idno type="VID">137076</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93269)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137076)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2448:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true Christians path way to heaven Wherein is shewed, the great afflictions which God imposeth upon His children in this life, and the assurance of their delivery out of the same. Being very profitable and comfortable for all those who are in any crosses or afflictions. Thereunto is added a prayer for morning and evening, and graces before and after meat. Dedicated to all those that desire to arrive at Mount Sion, the harbour of peace and joy. By William Simons.</title>
+                  <author>Simons, William, fl. 1665.</author>
+               </titleStmt>
+               <extent>24p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Andrevv Anderson,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>anno Dom. 1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Knowableness --  Early works to 1800.</term>
+               <term>Prayers --  Early works to 1800.</term>
+               <term>Suffering --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137076:1"/>
+            <p>The true CHRISTIANS Path way to HEAVEN. Wherein is ſhewed, The great Afflictions which God impoſeth upon His Children in this life, and the aſſurance of their Delivery out of the ſame. Being very profitable and comfortable for all thoſe who are in any Croſſes or Afflictions.</p>
+            <p>Whereunto is added a Prayer for Morning and Evening, and Graces before and after Meat.</p>
+            <p>
+               <hi>Dedicated to all thoſe that deſire to arrive at Mount</hi> Sion, <hi>the Harbour of peace and joy.</hi>
+            </p>
+            <p>By WILLIAM SIMONS,</p>
+            <q>
+               <bibl>
+                  <hi>Pſal. 34.19.</hi>
+               </bibl>
+               <p>Many are the troubles of the righteous, but the Lord delivers them out of them all.</p>
+            </q>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by ANDREVV ANDERSON, <hi>Anno DOM.</hi> 1665.</p>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:137076:2" rendition="simple:additions"/>
+            <l>Good people all, pray lend an ear,</l>
+            <l>and mark what I ſhall ſay:</l>
+            <l>To Heaven if that you fain would learn</l>
+            <l>the true and perfect way,</l>
+            <l>Here is a Book, it is but ſmall,</l>
+            <l>but doth in it contain,</l>
+            <l>Through many a croſſe and narrow path,</l>
+            <l>the way to Heaven plain.</l>
+            <l>The Prophets of the Lord have trod</l>
+            <l>this path, long time agoe:</l>
+            <l>And Christ and his Apoſtles all,</l>
+            <l>the ſame way do us ſhow:</l>
+            <l>The Martyrs next do follow them,</l>
+            <l>and tread the ſelf-ſame way,</l>
+            <l>And in the midſt of fiery flames</l>
+            <l>Chriſts Banners do diſplay.</l>
+            <l>Lord, ſet us in this Path-way then,</l>
+            <l>that leads us unto thee:</l>
+            <l>And guide us, Lord: for in theſe times.</l>
+            <l>there many by-paths be.</l>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="3" facs="tcp:137076:2"/>
+            <head>The true Chriſtian's path Way to Heaven.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSAL. 107.6.</hi>
+                  </bibl>
+                  <p>Then they cryed unto the Lord, in their trouble, and be delivered them out of their diſtreſſes.</p>
+               </q>
+            </epigraph>
+            <p>REmember, firſt of all, Chriſtian Rea<g ref="char:EOLhyphen"/>der, that through many afflictions thou muſt enter into the Kingdome of Heaven: As here in this <hi>Pſalm,</hi> the Prophet <hi>David</hi> ſheweth, how many wayes God doth afflict his Children, that he may bring them unto himſelf. Firſt, as in the fourth verſe, he ſheweth, how he afflicteth them. Secondly. whereby they are troubled in Conſcience, then they cry'd unto the Lord: And how ready and willing the Lord is to deliver them out of their diſtreſſe: <hi>Then they cryed unto the Lord in their trouble, and he delivered them out of their di<g ref="char:EOLhyphen"/>ſtreſſe.</hi> From whence we gather this inſtructi<g ref="char:EOLhyphen"/>on, that afflictions ſanctified are <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> prepa<g ref="char:EOLhyphen"/>ratives to repentance. Firſt <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> proved by <hi>Manaſſeh</hi> King of <hi>Judah,</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing led captive into <hi>Babylon,</hi> and being caſt into priſon and in chains, confeſſeth his ſins, and prayeth
+<pb n="4" facs="tcp:137076:3"/>unto the Lord, and the Lord delivered him out of his diſtreſſe. Again, in the prodigal Son, who being in affliction, was fain to eat husks with the ſwine: then he ſaid, <hi>I will riſe and go to my Fa<g ref="char:EOLhyphen"/>ther, and ſay unto him, Father, I have ſinned againſt Heaven, and before thee, and am no more worthy to be called thy Son:</hi> And his Fa<g ref="char:EOLhyphen"/>ther graciouſly received him. Again, we read in the third Chapter of the <hi>Lamentations</hi> of <hi>Je<g ref="char:EOLhyphen"/>remy,</hi> the Church of God being in afflictions, ſaith in the fortieth verſe, <hi>Come let us ſearch and try our wayes, and turn unto the Lord, and He will be mercifuil unto us.</hi> For there is no child of God, but muſt ſuffer croſſes and afflicti<g ref="char:EOLhyphen"/>ons in this life, for in the twelfth of the <hi>Heb.</hi> and the ſixth verſe, <hi>The Lord chaſtens every Son whom he receiveth.</hi> Here we may plainly ſee, that if we are not chaſtned, we are not Sons: For all the Saints of God that have gone before us, have trod this trace. Your common way to the ſpiritual <hi>Canaan,</hi> is to paſſe through the wil<g ref="char:EOLhyphen"/>derneſſe of afflictions. All the Patriarchs, Pro<g ref="char:EOLhyphen"/>phets and Apoſtles have done this, Chriſt himſelf hath begun to you in this Cup, and will ye not pledge Him? Do you think to go to Heaven in a feather-bed <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at hearts eaſe? Heaven is a ſtrait gate, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtrive hard to enter in: For the ſtrai<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this gate is afflictions: and there<g ref="char:EOLhyphen"/>fore all the Patriarchs and Prophets, and Apo<g ref="char:EOLhyphen"/>ſtles, and all the Saints of God, nay, Chriſt himſelf
+<pb n="5" facs="tcp:137076:3"/>has found harſh and unpleaſant. Therefore come down you proud Sons of <hi>Zebedee,</hi> before you think of ſitting in the Throne, firſt learn to drink of the Cup. Ye muſt firſt ſuffer with Chriſt be<g ref="char:EOLhyphen"/>fore ye can reign with Chriſt; ye muſt wear the Crown of thorns, before ye can wear the Crown of glory. But let us know this, that it is not fleſh and blood can do theſe things, but the Almighty power of a ſtrong God, working in a poor, weak and frail man.</p>
+            <p>The Reaſons, why God doth afflict his Chil<g ref="char:EOLhyphen"/>dren in this life, are, 1. Becauſe He may hear from them: For he knoweth our nature, he is well acquainted with our diſpofition; He knoweth we will not come unto him, but when we ſtand in need of Him. But when we come into any trouble or affliction, then he is ſure to hear of us, as he ſaith by the Prophet, <hi>Hoſ</hi> 5.15. <hi>In their afflictions they will ſeek me early.</hi> Again, by His Prophet, <hi>Iſa.</hi> 26.16. <hi>Lord, in trouble have they viſited Thee: they poured out their prayer, when Thy chaſtening was upon them.</hi> A ſecond reaſon is, becauſe it is good for them, as the Prophet <hi>David</hi> ſaith, <hi>Pſal.</hi> 119.71. <hi>It is good for me that It was afflicted, that I might learn the ſtatutes,</hi> Here he ſheweth by his afflictions, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> had lear<g ref="char:EOLhyphen"/>ned a great deal, and was become a good Schol<g ref="char:EOLhyphen"/>lar in Gods books, and well ſeen in his Statutes and Lawes, and grown to a great deal of wiſe<g ref="char:EOLhyphen"/>dom and judgement by his chaſtiſements, and all
+<pb n="6" facs="tcp:137076:4"/>things turned about in Gods merciful providence to his everlaſting comfort. For I ſay again and again, that all things turn to the beſt for Gods choſen people: And therefore what ſtate ſoever God would have his Children to be in, it is the beſt for them, whether it be ſickneſſe or health, povertie or plentie, Proſperity or adverſity: For ſometimes ſickneſs is better than health for Gods children poverty then plenty. Are Gods children therefore ſick? it is the beſt for them: Are they poor? it is the beſt for them: Are they in many troubles? it is the beſt for them, becauſe their heavenly Father will turn it to the beſt. He will cut us short of our luſts and deſires, becauſe he knoweth we will love our luſts He like a loving Father, will take the knife from us, leſt we ſhould hurt our ſelves with it. He will not give us too much eaſe nor proſperity in this life, becauſe we will be the worſe for them. He will not give us continuall reſt, like ſtanding ponds: He knoweth then we will gather ſcum and filth. He dealeth moſt fatherly and mercifully with us in al things. And, in a word when we think he doth us moſt hurt, then he doth us moſt good.</p>
+            <p>A third Reaſon is, Further tryal of our faith and patience. For faith doth not ſhew it ſelf moſt glorious, when we have moſt ſight or feel<g ref="char:EOLhyphen"/>ing of it, but rather when we feed and diſcern to the contrary, For when <hi>Job</hi> felt nothing but Gods wrath againſt him, even then he ſhewed a
+<pb n="7" facs="tcp:137076:4"/>moſt victorious faith, <hi>Job</hi> 13.15. who ſaid, <hi>Al<g ref="char:EOLhyphen"/>though thou ſlay me, yet will I truſt in Thee.</hi> We read the ſame of <hi>Jacob,</hi> in his tedious conflict with the Angel, <hi>Gen.</hi> 31.24. who ſaid, <hi>I will not let Thee go, except thou bleſſe me.</hi> And we read, <hi>Mat.</hi> 15. of the woman of <hi>Canaan,</hi> who though ſhe had many repulſes and denials, yet continued her ſute, and was commended for her faith by Chriſt, who was the Author and Giver of her faith, Therefore, for the better ſtrengthening you in theſe trials, conſider I beſeech you, they are but for a moment: What is a moment of affli<g ref="char:EOLhyphen"/>ctions to an eternall weight of glory? It is but as it were a harſh break faſt, as one of the holy Martyrs ſaid, being burning at the ſtake, after which ſaith he there will follow the moſt dainty and delicious dinner that ever was, even the full fruition of the joyes of Heaven. If we did but feel the torments of hell, and the joyes of hea<g ref="char:EOLhyphen"/>ven, what trials would we not undergo, that we might eſcape the one, to enjoy the other? Be not therefore too much caſt down in your trials, but, as St. <hi>Peter</hi> ſayes, 1 <hi>Pet.</hi> 4.13. <hi>Rejoice, in as much as ye are partakers of Chriſts ſufferings, that when his glory ſhall be revealed, ye may be glad with exceeding great joy.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> Some may object and ſay, that it out afflictions and croſſes did come only from God, it were ſome what: But oftentimes they come from men, which bear us no good will: And
+<pb n="8" facs="tcp:137076:5"/>therefore it is no marvel, though they make us impatient in our afflictions.</p>
+            <p>
+               <hi>Anſ.</hi> To it I anſwer, Thoſe men are but in<g ref="char:EOLhyphen"/>ſtruments, wherewith God doth inflict His ju<g ref="char:EOLhyphen"/>ſtice upon his Children: An example we have in <hi>Joſeph,</hi> who knew well enough the bad dealings of his Brethren with him, yet he looked not ſo much unto them, but to a further cauſe, name<g ref="char:EOLhyphen"/>ly unto the Lord, as himſelf ſayes, as you may read, <hi>Gen.</hi> 45.5. <hi>It was not you, but the Lord that ſent me hither before, for your preſervation.</hi> Then they cryed unto the Lord in their trouble, and He delivered them out of their diſtreſſe.</p>
+            <div type="application">
+               <head>Here follows the <g ref="char:V">Ʋ</g>ſe of Encouragement to all the Children of God, who though they ſuffer many afflictions, yet they are ſure of their de<g ref="char:EOLhyphen"/>livery in His appointed time.</head>
+               <p>WE read in the thirteenth of <hi>Luke,</hi> how the Daughter of <hi>Abraham</hi> was 18, years bound by Satan, and looſed by our Saviour Chriſt: And we read in the fifth of <hi>John,</hi> of a man that was diſeaſed 38. yeares, who was cured by Chriſt. As Saint <hi>Peter</hi> ſayes, 2 <hi>Peter</hi> 2.6. <hi>The Lord knoweth how to deliver the Godly out of temptation:</hi> As if he ſhould ſay, that he were ſo experienced in it, that he could do it without any trouble at all. And again, <hi>Joſeph</hi> being in
+<pb n="9" facs="tcp:137076:5"/>priſon, when his appointed time was come, the counſel of the Lord had tryed him, the King ſent and looſed him, and the Ruler of the people de<g ref="char:EOLhyphen"/>livered him, <hi>Pſal.</hi> 105 19, 30. Again, <hi>Pſal.</hi> 33.17. <hi>The Righteous cry, and the Lord hear<g ref="char:EOLhyphen"/>eth, and delivereth them out of all their troubles.</hi> The Angel of the Lord tarrieth about them that fear him, and delivereth them. And again, <hi>Pſa.</hi> 19. the Lord ſaith concerning the Righteous man, <hi>Becauſe he had loved me, I will deliver him: I will exalt him, becauſe he hath known my Name. He ſhall call upon me in his trouble, and I will be with him, and I will deliver and glorifie him.</hi> And again we read, <hi>Job.</hi> 5.19. <hi>Eliphaz</hi> the Temanite ſaid to <hi>Job, In the ſixth trouble he will deliver thee, and the ſeventh evil ſhall not touch thee.</hi> Many more proofs may be alledged for the proof of this, but this may ſuf<g ref="char:EOLhyphen"/>fice. Here you may plainly ſee, that as ſure as there be troubles and afflictions for the Children of God, ſo ſure is their deliverance out of the ſame; for as we may write of the one to be as ſure as the coat is to our back, ſo may we in God's good time write of the other, to be as ſure as the Lord is true: For <hi>Abrabam</hi> was in trouble but yet delivered: <hi>Job</hi> in trouble, but yet delivered: <hi>David</hi> In trouble, but yet deli<g ref="char:EOLhyphen"/>vered; <hi>Jonas</hi> in the Whales belly, but yet deli<g ref="char:EOLhyphen"/>livered; <hi>Daniel</hi> in the Lyons den, but yet deli<g ref="char:EOLhyphen"/>vered: the three Children in the fiery furnace,
+<pb n="10" facs="tcp:137076:6"/>but yet delivered: <hi>Paul</hi> was in innumerable ſorts of troubles, but yet delivered out of all. Theſe things being true that have been ſaid, it follows, that Gods Children are chaſtened only for their good, and evermore ſure of their deli<g ref="char:EOLhyphen"/>verance, in his appointed time: And therefore there is no reaſon, why Gods Children ſhould be too much caſt down in their afflictions. Can a Father forget his Children, or a King his Sub<g ref="char:EOLhyphen"/>jects, or a Maſter his Servants, or a Shep-herd his Sheep? Doth not God Himſelf ſay that he <hi>will never leave us, nor forſake us? Heb.</hi> 13.5. Doth not our heavenly Father know, that we have need of all theſe things? Hath he not ſaid, we ſhall want no out ward things? Hath he not ſaid, they ſhall all be caſt upon us? Why then ſhould we hang down our heads? Why ſhould we not pluck up our hearts and rejoice? God is our heavenly Father, He is our beſt Friend, He is our daily Benefactor, He keeps us all at his own coſt and charges, He thinks nothing too much for us, He is moſt chary and tender over us, He will not ſuffer the wind to blow upon us, to hurt us: He hath promiſed, we ſhall lack nothing that is good for us, ſo long as we live. Why then ſhould we not pluck up our hearts, and re<g ref="char:EOLhyphen"/>joice? Heaven is ours, the earth is ours, God is ours, and Chriſt is ours: And, as the Apoſtle ſaith, 1 <hi>Cor.</hi> 3.22.23. <hi>All are yours, you are Chriſts, and Chriſt is Gods.</hi> The World clap<g ref="char:EOLhyphen"/>peth
+<pb n="11" facs="tcp:137076:6"/>their hands, and croweth long before it is day, and ſaith, All is theirs. But the Children of God may ſay, and ſay truely. All is theirs, For they have a true title through Chriſt to all the creatures: Many are their priviledges, and great are their prerogatives: They are free of Heaven, free of Earth, they are the only free Denizens of the World. Chriſt hath purchaſed their freedome for them, therefore they are free indeed: Free from ſin, free from hell, free from damnation: They are young Princes, Angels fel<g ref="char:EOLhyphen"/>lows, deſcending from the higheſt houſe of the Blood Royal of Heaven: they are Stars of Pa<g ref="char:EOLhyphen"/>radice, Heirs apparent to the immortall Crown: Therefore God hath commanded His Angels to guard them, being ſuch young Princes as they are: He hath given a very ſtrict charge to all His Creatures, to look unto them, and to ſee unto them, that they take no harm, for jealous. ſo chary, ſo tender He is over them, The Angel muſt comfort <hi>Jacob,</hi> the Whale muſt receive <hi>Jonas,</hi> the Raven muſt feed <hi>Elias,</hi> the Sun and Moon muſt ſtay for <hi>Joſhua,</hi> the ſea muſt divide it ſelf for <hi>Moſes,</hi> that his people may paſſe through: The fire muſt not burn the three Chil<g ref="char:EOLhyphen"/>dren; The Lyons muſt not devour <hi>Daniel;</hi> All the Creatures muſt change their nature, rather then Gods people ſhall be unholpen, and unde<g ref="char:EOLhyphen"/>livered. O then I how great is the happineſſe of Gods Children? Who can utter it? Who can
+<pb n="12" facs="tcp:137076:7"/>expreſs it? They ſee not their own happineſs, it is hidden from them: afflictions do over-cloud it, croſſes do dim it, troubles do ſhadow it; there is an interpoſition of the earth between the ſight and it. But this is moſt certainly true, all the beſt is behind, the ſweeteſt is to come, their happineſſe doth not appear in this life, it is hid<g ref="char:EOLhyphen"/>den with God in Chriſt: <hi>When Chriſt appears, then ſhall they alſo appear with him in Glory.</hi> It doth not yet appear what they ſhall be, but when he cometh, they ſhall be made like unto him; their names are already taken, and entred in the Book of life, and one day they ſhall be crowned, one day it ſhall be ſaid to them, <hi>Come ye bleſſed of my Father, receive the Kingdome, prepared for you, from the beginning of the World.</hi> One day they ſhall enjoy his preſence, where is fulneſs of joy, and at whoſe right hand there are pleaſures for evermore: well then, let all God's ſecret ones rejoyce and be merry, how<g ref="char:EOLhyphen"/>ever in this world they be troden underfoot, and walk like ſhadowes, and counted the very racts and abjects of the world; yet the time wil come when their happineſſe and felicity ſhall be ſuch as never could enter into the heart of man, for it ſhall be endleſſe, unſpeakable, and inconceiv<g ref="char:EOLhyphen"/>able: and therefore there is no cauſe, why Gods Children ſhould be too much caſt down in their afflictions; for, though they be not free from all afflictions, yet they are free from hurtfull af<g ref="char:EOLhyphen"/>flictions;
+<pb n="13" facs="tcp:137076:7"/>for there is no rod, no croſſe, nor no chaſtiſement, but all in the end hath a bleſſed and happy iſſue: for this is moſt certain and true, there is no croſſe nor affliction, which God im<g ref="char:EOLhyphen"/>poſeth upon his Children in this life but if they endure it quietly, and truſt in his mercy firmly, and tarry his good leaſure obediently, it all com<g ref="char:EOLhyphen"/>eth to a comfortable and bleſſed end: and there<g ref="char:EOLhyphen"/>fore God's Children may rejoyce in the midſt of their afflictions, and patiently kiſs his holy rod, ſeeing it is his good pleaſere. I am willing withall, ſeeing he will have it ſo: I am well con<g ref="char:EOLhyphen"/>tent, as old <hi>Eli</hi> ſaid: 1 <hi>Sam.</hi> 3.18. <hi>It is the Lord, let him do with me what he will,</hi> and as <hi>David</hi> ſaid in a certain caſe, 2 <hi>Sam</hi> 15.26. <hi>Behold here I am, do with me, as ſeemeth beſt in thine own eyes,</hi> And again <hi>David</hi> ſaid <hi>in Pſal.</hi> 39.9. <hi>Behold, I was dumb and opened not my mouth, for thou Lord haſt done it.</hi> Behold here the patience of God's Children, and their humble ſubmiſſion to his moſt holy Will: they know all ſhall end well and therefore they are glad of it. To conclude this point. Gods children are happy, in what ſtate ſoever they are in, happy in trouble, happy out of trouble; bleſſed in ſickneſſe, bleſſed in health, bleſſed at home, and bleſſed abroad, and every where bleſſed.</p>
+               <p>The next is a uſe of reproof.</p>
+               <p>Firſt of all, it reproves thoſe, that when any croſſe or affliction befalls them, they fall to cur<g ref="char:EOLhyphen"/>ſing and ſwearing; and therefore I beſeech you
+<pb n="14" facs="tcp:137076:8"/>conſider, how is it poſſible that any curſing or curſed perſon ſhould be a Member of that bleſſed Head Chriſt Jeſus, who hath expreſly forbid us to curſe? As in <hi>Mat.</hi> 5. <hi>Luk.</hi> 6. <hi>Rom.</hi> 10. where he ſaith, <hi>Bleſs them that curſe you, pray for them that deſpitfully uſe you.</hi> It is ſaid of all them that accuſtom themſelves to curſing, <hi>Pſal.</hi> 109.17. <hi>They delighted in curſing, therefore it ſhall hap<g ref="char:EOLhyphen"/>pen to them: They loved not bleſſing, and there<g ref="char:EOLhyphen"/>fore it ſhall be far from them.</hi> It is ſaid, <hi>Eccleſi<g ref="char:EOLhyphen"/>aſticus</hi> 23.13. <hi>The plague ſhall never depart from the houſe of the ſwearer.</hi> And therefore, if ever ye deſire to be partakers of the Kingdom of Heaven, give your ſelves to bleſſing and prayer a and then ye ſhall have that bleſſed welcom, <hi>Mat.</hi> 25.34. <hi>Come ye bleſſed of my Father, receive the Kingdom.</hi> It ſerves to reprove all thoſe who, being in afflictions, do make great proteſtations they will become new creatures: And yet, ſo ſoon as their affliction is over, they become as hard hearted and miſerable as before: Like as the 9. Lepers who, being cleanſed, returned to their old Byas again: And as St. <hi>Peter</hi> ſaith, <hi>The dog that vomited, is returned to his vomit again: The ſow that was waſhed is wallowed in the mire again.</hi> Therefore let all ſuch know, theſe are but whips and laſhes wherewith God doth whip and lain wicked and ungodly men. And therefore in con<g ref="char:EOLhyphen"/>cluſion, let all thoſe to whom any croſſes or af<g ref="char:EOLhyphen"/>flictions do befall, for Gods ſake, for their own ſake, and for their ſouls ſake, <hi>Labour to make
+<pb n="15" facs="tcp:137076:8"/>their calling and election ſure:</hi> 2 <hi>Pet.</hi> 1.10. and then they ſhall never fall. And that we may all ſo do, I commend you to GOD, and to the word of his Grace who is able to build you up further, and to give you an everlaſting inheritance among them that are ſanctified. Now the GOD of mer<g ref="char:EOLhyphen"/>cy and the Father of all conſolation proſper and ſanctifie you and that which I have written un<g ref="char:EOLhyphen"/>to you: To Him be all praiſe, honour and glory, now and for evermore, <hi>Amen.</hi>
+               </p>
+               <lg>
+                  <l>YOu that have read or heard this Book,</l>
+                  <l>either, old or young, I pray</l>
+                  <l>That ſeriouſly you would in it look,</l>
+                  <l>and learn this heavenly way:</l>
+                  <l>Delay no time, for to be ſure,</l>
+                  <l>now in theſe latter dayes</l>
+                  <l>The Devil lurketh up and down</l>
+                  <l>in many by-path wyaes.</l>
+                  <l>For like an Angel now of light</l>
+                  <l>transform'd he doth appear;</l>
+                  <l>And many in this Land are led</l>
+                  <l>by him too much, I fear.</l>
+                  <l>Lord give us ſtrength for to reſiſt</l>
+                  <l>his power and force ſo ſtrong.</l>
+                  <l>That in this heavenly path we may</l>
+                  <l>moſt ſafely walk along.</l>
+                  <l>In all theſe changes of theſe times,</l>
+                  <l>and trouble eke to <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>There's no proteſts <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>,</l>
+                  <l>O Lord, is <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+               </lg>
+               <pb n="14" facs="tcp:137076:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:137076:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+         </div>
+         <div type="prayers">
+            <pb n="16" facs="tcp:137076:10"/>
+            <head>An Exhortation to Prayer.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Job</hi> 33.25.</bibl>
+                  <p>HE ſhall pray unto the Lord, and he will be favourable unto him, he ſhall ſee his face with joy, and he will ren<g ref="char:EOLhyphen"/>der unto him his righteouſneſſe.</p>
+                  <bibl>
+                     <hi>Iſa.</hi> 65.24.</bibl> 
+                  <p>Before they ask, I will anſwer, ſaith the Lord, and while they pray, <hi>I</hi> will hear.</p>
+                  <bibl>
+                     <hi>Jer.</hi> 10.25.</bibl> 
+                  <p>A curſe is threatned up<g ref="char:EOLhyphen"/>on that family that doth not pray unto the Lord.</p>
+               </q>
+            </epigraph>
+            <p>Then let us not pray coldly with our lips, and our hearts far from God: But pour out our prayers with attentive mind and a carefull heart.</p>
+            <div type="prayer">
+               <head>Morning Prayer.</head>
+               <p>
+                  <hi>O</hi> LDRD prepare our unprepared hearts for the performance of this Duty of Prayer: Gide us the help of thy Holy Spirit, Without which we can do nothing.</p>
+               <p>
+                  <hi>O</hi> LORD our GOD, and headenly Fa<g ref="char:EOLhyphen"/>ther in Ieſus Chriſt we thy poor and unworthy <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> here humble our ſelves before thy <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Majeſty, to offer up our Morning <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Prayer and thankſ<g ref="char:EOLhyphen"/>giving
+<pb n="17" facs="tcp:137076:10"/>for all thy mercies and ſavours beſtow<g ref="char:EOLhyphen"/>ed upon us: acknowledging and confeſſing that we are miſerable and ſinfull wretches, con<g ref="char:EOLhyphen"/>ceided and born in ſin, brought forth in iniqui<g ref="char:EOLhyphen"/>ty: And ſo have continued all our life time, breaking and tranſgreſſing of thy holy Com<g ref="char:EOLhyphen"/>mandements, in thought, word, and deed: So that in us there is no whole part, from the ſole of the foot to the crown of the head, all is polinted with iniquity, ſinne, and chil. And therefore we have forfeited thy fabour, and deſerved for theſe ſinnes ederlaſting dam<g ref="char:EOLhyphen"/>nation, and to be utterly thrown from Thy preſence.</p>
+               <p>Nevertheleſſe, we appeal from thy juſtice, to thy mercy, beſeeching thee for Ieſus Chriſt his ſake, to be mercifull to us, in the pardon<g ref="char:EOLhyphen"/>ing and forgiving all our ſins, whether they be known or unknown: good Lord, bldt them out of the book of thy rememberance, that they may never riſe up, either in this life to move us to deſperation, nor yet in the life to come to bring us to eternall death and condemnati<g ref="char:EOLhyphen"/>on: that they be not a wall of ſeparation at this time, to hinder our prayers from aſcending up unto Thee, and thy bleſſing from deſcenting upon us. Seeing that we cannot do any thing that is good and pleaſing in thy ſight, we be<g ref="char:EOLhyphen"/>ſeech thee, that thou will ſo renew and change us, in all the parts and powers of our ſouls and bodies, that as heretofore we have been inſtru<g ref="char:EOLhyphen"/>ments of ungodlineſſe and ſin, we may now be inſtruments of righteouſneſſe, and true holi<g ref="char:EOLhyphen"/>neſſe, all the dayes of our lives.</p>
+               <pb n="18" facs="tcp:137076:11"/>
+               <p> Together with our ſelves, we beſeech ſhee bleſſe thy whole Church, whereſoever diſperſt, or howſoever diſtruſt over the face of the earth: O Lord, fight for them that fight for Thee: Bleſſe thy friends, and deſtroy thy foes. Be gracious to this Land where we live, continue thy holy Goſpel with us. We beſeech thee, Bleſſe every particular Member thereof, from the higheſt to the loweſt, whether by Sea or Land, or in any croſſe or affliction, or ſuffering for the teſtimony of a good conſcience, or any that do crave the benefite of our Prayers, Lord, thou ſeeſt them all, thou knoweſt were they dwell. Good Father do abundantly for them, more then we are able to aſk or crave at thy hands.</p>
+               <p>Now we are to come to The again for our ſelves here preſent, giving Thee hearly thanks, that thou haſt kept us this night from all hurt and danger, giving to our bodies ſweet and comfortable reſt. And as thou haſt drought us to the beginning of this day, we beſeech Thee, that thou wilt direct us this day by Thy Holy Spirit, keep us from all the temptations of Sa<g ref="char:EOLhyphen"/>than, from all kind of ſin and wickedneſſe, that being ſhadowed under thy wings, we may go on conſtantly and chearfully to the end of our dayes. Bleſſe all our true and lawfull endea<g ref="char:EOLhyphen"/>vours this day, let us not lack the thing with<g ref="char:EOLhyphen"/>out which we cannot ſerve thee! But that we may have ſufficient, and not be chargeable, but rather helpfull unto others.</p>
+               <p>Great theſe graces unto us, and whatſoever elſe thou knowſt moſt needfull for us, and that for Chriſt Ieſus ſake, in whoſe Name and words
+<pb n="19" facs="tcp:137076:11"/>we do conclude our imperfect Prayers, in that moſt perfect form which he himſelf hath taught us, ſaying, <hi>Our Father, &amp;c.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <head>Evening Prayer.</head>
+               <p>
+                  <hi>O</hi> Gracious God, and loving Father in Ieſus Chriſt, we thy unworthy Chil<g ref="char:EOLunhyphen"/>dren do here how down our ſelves, to of<g ref="char:EOLhyphen"/>fer up unto thee our evening Sacrifice of prayer and thankſgiving, for all thy bleſſings and be<g ref="char:EOLhyphen"/>nefits continued unto us: Acknowledging and confeſſing, that as we are born and bred in ſin, and ſtained in the Womb, ſo have we continu<g ref="char:EOLhyphen"/>ally brought forth the fruit thereof, both in Thought, Word, and Works: So that if we ſhould go about to reckon up our particular of<g ref="char:EOLhyphen"/>fences, we know not where to begin, or where to make an end: they are far more in number then the hairs on your heads, or the ſands in the Sea: For, who knoweth how often he offen deth? Our Lord, thou knoweſt our hearts, thou knoweſt our ſins, nothing is hid from thee. Our conſcience doth accuſe us of many and grievous evils: We daily feel, by woefull experience, how weak we are unto all good<g ref="char:EOLhyphen"/>neſſe, and how willing towards all evil: Our minds are full of vanity, our hearts are full of deadneſſe, dulneſſe, and druſineſſe in matters
+<pb n="20" facs="tcp:137076:12"/>of thy Worſhip and Service: yea, our Souls are full of ſpirituall blindneſſe, hardneſſe, un<g ref="char:EOLhyphen"/>profitableneſſe, coldneſſe, ſecurity. So that in very deed, we are a lump of ſinne, a maſſe of all miſery, and therefore have forfeited thy favour, and procured thy high diſpleaſure a<g ref="char:EOLhyphen"/>gainſt us. But we beſeech Thee, look not upon us as we are in our ſelves, but through thy Son Ieſus Chriſt, and for his ſake to pardon and forgive us all our ſinnes, and accept His death and paſſion, as a full ſatisfacton for them all. And we beſeech Thee, Seal up the forgiveneſſe of our ſinnes, by the teſtimony of his bleſſed Spirit, that when we ſhall be ſtripped naked of all out<g ref="char:EOLhyphen"/>ward comfort, we may have in us peace of con<g ref="char:EOLhyphen"/>ſcience, which paſſeth all underſtanding: work in us true repentance, in all particular actions: Fill our ſouls with joy and peace in believing: Fill us all with inward comfort, and ſpirituall ſtrength, againſt all the temptations of the World, the fleſh, and the devil. Mortifie in us whatſoever is carnal. Sanctifie us with thy Spirit: write it in our hearts for ever, that we may fear thy name. Renew in us the Image of thy Son Chriſt Ieſus, dally more and more. Never leave us, nor forſake us, till thou haſt brought us to thy Heavenly King<g ref="char:EOLhyphen"/>dome.</p>
+               <p>We beſeech Thee to be mercifull to Thy whole Church, call home thy ancient people of the Iews, bring in the ſulneſſe of the Gentiles. Bleſſe this Land wherein we live, be thou ſtill our God, and give us Grace to
+<pb n="12" facs="tcp:137076:12"/>be thy people: Romove far from us all thoſe plagues and puniſhments, which we for our ſins have juſtly deſerved. We beſeech thee to prevent Popery, and continue thy Word and Goſpel unto us and our poſterity, to the end of the world. Confound all plots and de<g ref="char:EOLhyphen"/>vices of all thoſe which do ſecretly or openly ſeek to hinder the ſame: Bleſſe, O LORD, all thoſe that truely ſeek thy Honour and Glo<g ref="char:EOLhyphen"/>ry, and the happy peace of this ſad and diſtra<g ref="char:EOLhyphen"/>cted Nation: LORD, uphold them that up<g ref="char:EOLhyphen"/>hold thy truth, unite our hearts all as one, if it be thy holy wil, that we may al ſerve thee in truth and holineſſe of life, and keep us from the foul errours of theſe latter times. Bleſſe al the Miniſters of thy Word and Sacraments; <hi>The Harveſt is great, and the Labourers are few.</hi> O LORD, we beſeech Thee to encreaſe faithful and painful Labourers in thy Har<g ref="char:EOLhyphen"/>veſt, and double thy Spirit upon them, for the diſcharge of ſo great and weighty a duetie. Bleſſe al our Brethren that are at Sea, keep them from al ſtorms and tempeſts, defend them from all their enemies, give good ſucceſſe to all their lawfull endeavours, proſper their voy<g ref="char:EOLhyphen"/>ages, and in good time bring them home in peace and ſafety.</p>
+               <p>O LORD, be merciful to all that Thou haſt laid Thy hand of affliction upon, whether inwardly in ſoul, or outwardly in body, or for the teſtimonie of a good conſciences; O Lord, ſanctifie all their afflictions unto them, and in Thy good time, give a happy and joyfull deli<g ref="char:EOLhyphen"/>derance.</p>
+               <pb n="22" facs="tcp:137076:13"/>
+               <p> Now we are to return to thee again for our ſelves here preſent, giving the heartie thanks, that thou haſt kept us this day from all hurt and dangers both body and ſoul: That thou haſt given us food and raiment, and all things needfull for this life, and haſt bleſt our labours for this day, beſeeching thee to continue thy fa<g ref="char:EOLhyphen"/>vour to us this night. Give unto our bodies ſweet and comfortable reſt this night, that our minds be not drawn aſide by the temptations of Satan, nor by unquiet dreams: But that we may fear thee, and reſt in thee, that when the light of the day ſhall ſpring forth and appear, we bring in perfect health, may joyfully riſe up, and walk forth in our ſeverall callings, to the glory of thy Name, and the benefit of our brethren</p>
+               <p>Hear theſe our petitions for thy Church ſake, and thy Church for us, and Ieſus Chriſt for us all: In whoſe name and words we further call upon thee, as he hath taught us in his holy Goſ<g ref="char:EOLhyphen"/>pil, ſaying, <hi>Our Father, &amp;c.</hi>
+               </p>
+               <lg>
+                  <l>Learn theſe prayers in your hearts,</l>
+                  <l>and print them in your mind:</l>
+                  <l>Uſing them morning and evening,</l>
+                  <l>great comfort you ſhall find.</l>
+               </lg>
+            </div>
+            <div type="prayer">
+               <pb n="23" facs="tcp:137076:13"/>
+               <head>Grace before meat,</head>
+               <p>O Lord, we beſeech Thee Bleſſe and Sanctifie theſe thy good Creatures, which of thy great mercy Thou haſt pro<g ref="char:EOLhyphen"/>vided for us: Give us Grace to receive them thankfully, and uſe them ſoberly, to the glory of thy Bleſſed Name, AMEN.</p>
+            </div>
+            <div type="prayer">
+               <head>Grace after meat.</head>
+               <p>BLeſſed be Thy Great and Glorious Name, O Lord our God, for refre<g ref="char:EOLhyphen"/>ſhing us at this time, with theſe thy good Creatures of Meat and Drink. O Lord, we beſeech Thee, that thou wilt make us truely thankfull to thee, in all holy obedi<g ref="char:EOLhyphen"/>ence, according to thy bleſſed will. And, good Father, Sanctifie us more and more both in ſouls and bodies, to do thine own ſervice, and that for Chriſt Jeſus his ſake, our Bleſſed Saviour and Redeemer.</p>
+               <p>O Lord, increaſe our Faith, forgive us our ſins, continue thy holy Goſpel with us, ſend us peace in our conſcience, that we may do uprightly &amp; juſtly in thy ſight through Jeſus Chriſt our Lord, AMEN.</p>
+            </div>
+            <div type="prayer">
+               <pb n="14" facs="tcp:137076:14"/>
+               <head>Grace before meat.</head>
+               <p>O Gracious God, and loving Father that haſt kept us by thy good Pro<g ref="char:EOLhyphen"/>vidence untill this time, by nouriſhing us with thy good Creatures, and haſt not likewiſe, far beyond our deſerts, beſtowe them on us again, according to thy won<g ref="char:EOLhyphen"/>ted mercy: We beſeech thee to bleſſe them, and give us grace to be thankfull unto thee for them, without murmuring, Grant us theſe Graces for thy Son Jeſus Chriſt his ſake, <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <head>Grace after meat.</head>
+               <p>O Moſt gracious God, and heavenly Father, we give thee humble and heartie thanks, for refreſhing our bodie at this time will thy good Creatures. We beſeech thee to feed our ſouls wit thy heavenly Grace, that we may live eternally, through thy Son our only Saviour, <hi>Amen.</hi>
+               </p>
+               <trailer>FINIS</trailer>
+               <pb facs="tcp:137076:14"/>
+               <pb facs="tcp:137076:15"/>
+               <pb facs="tcp:137076:15" rendition="simple:additions"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
